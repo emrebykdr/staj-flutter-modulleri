@@ -1,6 +1,6 @@
 # Staj Gorevi 1 - Flutter Loading, Video Player, Bildirim ve Google Maps
 
-> **Not:** Bu proje daha once `emrebykdr/stajflutter` reposunda gelistirildi. Eski repo, guvenlik ve paylasilabilirlik sebebiyle **private** alindi; bu repo (`staj-flutter-modulleri`) sonradan olusturuldu. Eski commit gecmisi bu repoya tasinmadi.
+> **Not:** Bu proje daha once `emrebykdr/stajflutter` reposunda gelistirildi. Eski repo, guvenlik ve paylasilabilirlik sebebiyle **private** alindi; bu repo (`staj-flutter-modulleri`) sonradan olusturuldu.,
 
 **Toplam Sure:** 3 Gun
 **Hedef:** Flutter'da temel media, notification ve map/location entegrasyonlarini calisan bir demo olarak gelistirmek.
